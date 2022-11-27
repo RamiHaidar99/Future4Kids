@@ -1,17 +1,7 @@
 import streamlit as st
-from st_clickable_images import clickable_images
-import streamlit_modal as modal
-import streamlit.components.v1 as components
 import pandas as pd
-from PIL import Image
-import numpy as np
-import pyodbc
-import math
-import smtplib
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
-from email.header import Header
-from email.mime.application import MIMEApplication
+
+
 
 #################################
 
